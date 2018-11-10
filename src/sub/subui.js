@@ -35,7 +35,7 @@ export default class SubUI extends Plugin {
 			view.set( {
 				label: t( 'Subscript' ),
 				icon: subIcon,
-				keystroke: 'CTRL+SHIFT+P',
+				keystroke: 'CTRL+SHIFT+B',
 				tooltip: true
 			} );
 
