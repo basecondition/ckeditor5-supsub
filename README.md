@@ -1,1 +1,1 @@
-# ckeditor5-supersub
+# ckeditor5-supsub
